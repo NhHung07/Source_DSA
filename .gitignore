@@ -1,0 +1,10 @@
+# Bỏ qua tất cả mọi thứ
+*
+
+# Nhưng vẫn giữ lại thư mục src và toàn bộ nội dung bên trong
+!src/
+!src/**
+
+# (Tùy chọn) Giữ lại file .gitignore và README.md nếu có
+!.gitignore
+!README.md
